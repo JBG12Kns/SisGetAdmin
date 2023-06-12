@@ -1,0 +1,22 @@
+{
+  "Admin": [
+  {
+  "id": 1,
+  "Utilizador": "JD"
+  "Password": "123"
+  },
+  {
+  "id": 2,
+  "Utilizador": "JJD"
+  "Password": "456"
+  },
+  {
+  "id": 3,
+  "Utilizador": "ORA"
+  "Password": "789"
+  }
+  ],
+  "profile": {
+  "nome": "Profile 1"
+  }
+}
